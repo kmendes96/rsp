@@ -14,4 +14,4 @@ Contributors:
 
 - hMariano
 
-- kMendes 
+-  kmendes96 -  [![General badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white<SUBJECT>-<STATUS>-<COLOR>.svg)](https://github.com/kmendes96)
