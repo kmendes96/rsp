@@ -27,7 +27,7 @@ Já com os dados tabulados em DataFrames, iremos dividir os dados em 70% para tr
 - O objetivo aqui é ajustar os parâmetros do modelo de modo que ele possa fazer previsões precisas sobre novos dados.
 
 ## Terceiro Passo: Avaliar o desempenho do modelo
-- Depois que o modelo é treinado, é importante avaliar o quão bem ele se comporta usando o conjunto de teste. Isso ajudará a determinar se o modelo está super ou subajustado e se há espaço para melhorias adicionais.
+- Depois que o modelo é treinado, é importante avaliar o quão bem ele se comporta usando o conjunto de teste. Isso ajudará a determinar se o modelo está super ou subajustado e se há espaço para melhorias adicionais. Utilizando métricas como o erro médio quadrático (Mean Squared Error - MSE) e o coeficiente de determinação (R²), pode-se testar a acurácia do modelo.
 
 ## Quarto Passo: Ajustar o modelo
 - Se o desempenho do modelo não for satisfatório, é possível ajustá-lo modificando seus parâmetros ou experimentando um algoritmo de aprendizado de máquina diferente. Isso pode envolver a realização de mais experimentos e avaliações para encontrar a configuração ideal do modelo.
