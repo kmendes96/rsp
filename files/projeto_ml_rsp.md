@@ -45,7 +45,7 @@ D4Y1,685,04/01/2017,QUA,3,4,4,2,2,2,2,2,2,2,2,2,2,2,9,5,5,8,7,8,10,7,4,4,10,2,5,
 
 ## Por fim, faremos a carga (Load) do DF no google colab para utilizarmos ferramentas de Machine Learning para leitura e aprendizado de máquina.
 
-Após sucesso de no mínimo 90% de rating, que é um sucesso razoável, pois o dia tem 24 horas - de 15 em 15 minutos temos 96 colunas, ou seja, um rating de 90% nos dá 86 colunas de previsibilidade correta, sendo que as outras 10 colunas provavelmente a IA errará um peso para cima ou para baixo. Isso dá uma ótima predição a ser utilizada pelo supervisor no dia-a-dia para a distribuição da carga horária da equipe.
+Após sucesso de no mínimo 90% de rating de acurácia , que é um sucesso razoável, pois o dia tem 24 horas - de 15 em 15 minutos temos 96 colunas, ou seja, um rating de 90% nos dá 86 colunas de previsibilidade correta, sendo que as outras 10 colunas provavelmente a IA errará um peso para cima ou para baixo. Isso dá uma ótima predição a ser utilizada pelo supervisor no dia-a-dia para a distribuição da carga horária da equipe.
 
 
 Esse Arquivo deve ser atualizado a cada etapa do projeto:
